@@ -34,7 +34,7 @@ It is used the Pascal VOC 2012 Dataset dataset for training the custom YOLOv5 ob
 
 ## Instructions
 
-Please, follow the instruction of the provided notebook.
+Please, follow the instruction in the provided notebook.
 
 
 ## Outputs
