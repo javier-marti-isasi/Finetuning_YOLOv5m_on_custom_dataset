@@ -1,4 +1,4 @@
-# Finetuning_YOLOv5m_on_custom_dataset
+# Finetuning YOLOv5m on custom dataset
 Object detection YOLOv5m finetuning on custom dataset with PyTorch. Inference on videos.
 
 Original YOLOv5 repository:
