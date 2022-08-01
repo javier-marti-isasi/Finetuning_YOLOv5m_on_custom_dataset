@@ -1,6 +1,8 @@
 # Finetuning YOLOv5m on custom dataset
 Object detection YOLOv5m finetuning on custom dataset with PyTorch. Inference on videos.
 
+<video src='tracking_sagrada_familia.mp4' width=180/>
+
 Original YOLOv5 repository:
 https://github.com/ultralytics/yolov5
 
