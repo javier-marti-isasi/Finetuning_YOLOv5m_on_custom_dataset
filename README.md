@@ -1,6 +1,8 @@
 # Finetuning YOLOv5m on custom dataset
 Object detection YOLOv5m finetuning on custom dataset with PyTorch. Inference on videos.
 
+<a href="https://www.kaggle.com/datasets/mbkinaci/fruit-images-for-object-detection" target="_blank">Kaggle</a>.
+
 https://user-images.githubusercontent.com/73080100/182164916-2c20cc3d-97a5-42da-b8de-84d156cb1d9b.mp4
 
 
